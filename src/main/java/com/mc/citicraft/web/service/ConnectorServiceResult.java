@@ -38,4 +38,8 @@ public class ConnectorServiceResult {
 
         return String.format("%s and %s %s connected", from, to, areConnected ? "are" : "are not");
     }
+
+    public boolean isOk() {
+        return areConnected;
+    }
 }

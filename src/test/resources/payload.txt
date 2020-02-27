@@ -1,0 +1,22 @@
+New York, Albany
+Albany, Kingston
+Kingston, Montreal
+Albany, Montreal
+Montreal, Quebec
+Montreal, Toronto
+Toronto, Calgary
+Calgary,Seattle
+Seattle, Portland
+Moscow, Novgorod
+Novgorod, Volochek
+Nizhnii Novgorod, Novgorod
+Volochek, Tver
+Volochek, Tver, Dallas
+Volochek,
+Volochek,
+Volochek
+
+Tver, Novgorod
+Novgorod, Saratov
+Uhta, Minsk
+Minsk, Breast
