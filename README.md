@@ -9,7 +9,8 @@ Load file using this URI : \
     http://localhost:8091/loader
 Check if two cities are connected using this URI : \
     http://localhost:8091/check?from={city1}&to={city2}
-    
+    or http://localhost:8091/check2?from={city1}&to={city2}
+        
 __Option 2__: \
 Start application \
 Open browser \
