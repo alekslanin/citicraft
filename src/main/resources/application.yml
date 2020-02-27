@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: citi-craft
+
+server:
+  port: 8091

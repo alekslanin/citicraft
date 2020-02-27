@@ -1,5 +1,22 @@
-# Getting Started
+# CitiCraft
 
+### How to use
+
+__Option 1__: \
+Start application \
+Open browser \
+Load file using this URI : \
+    http://localhost:8091/loader
+Check if two cities are connected using this URI : \
+    http://localhost:8091/check?from={city1}&to={city2}
+    
+__Option 2__: \
+Start application \
+Open browser \
+Open swagger using this URI : \
+    http://localhost:8091/swagger-ui.html#
+    
+ 
 ### Reference Documentation
 For further reference, please consider the following sections:
 

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<body>
+<h1>File upload page</h1>
+<hr/>
+<h4>Upload file:</h4>
+<form method="post" th:action="@{/uploadFile}" enctype="multipart/form-data">
+    <input type="file" name="file"> <br/> <br/>
+    <button type="submit">Submit</button>
+</form>
+<hr/>
+</body>
+</html>
